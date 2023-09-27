@@ -1,2 +1,2 @@
-# first_website
-This is the First kinda complete website I created
+# real_estate
+This is just the front end part
